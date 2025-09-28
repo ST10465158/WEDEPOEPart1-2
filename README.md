@@ -89,7 +89,7 @@ and AGAIN after following the steps, it did not work. I followed the steps to th
 
 <img width="1440" height="900" alt="Screenshot 2025-09-27 at 12 51 41" src="https://github.com/user-attachments/assets/0172d20b-1829-49fd-86ba-9f3261c660f3" />
 
-So since i cannot at this point, update my commit pushes that way, I WILL BE UPDATING THE CHANGES THAT I MADE TO MY CODE OVER HERE IN THIS README FILE.
+So since i cannot at this point, update my commit pushes that way, I WILL BE UPDATING THE CHANGES (EACH SAVE) THAT I MADE TO MY CODE OVER HERE IN THIS README FILE.
 
 Here is what I have so far:
 
@@ -197,12 +197,56 @@ here is what the webpages look like so far (Time: 19:59 Sunday, 28th September 2
 
 <img width="1440" height="900" alt="Screenshot 2025-09-28 at 19 57 24" src="https://github.com/user-attachments/assets/d370c9c9-abb7-4213-9c56-7c39f770c550" />
 
+I have now added styling to the body of my html as shown in the screenshot below:
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 20 04 41" src="https://github.com/user-attachments/assets/f6853733-8e71-4dbd-a610-794319c4f5e6" />
+
+Here are what the webpages look like after that below: 
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 20 05 50" src="https://github.com/user-attachments/assets/96011d87-1246-4a5b-8439-ba3a3263cf78" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 20 05 57" src="https://github.com/user-attachments/assets/82d088c5-f794-43a7-a140-46c6b3e1f898" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 20 06 04" src="https://github.com/user-attachments/assets/78b4c8dd-ca69-4de9-8d2d-6f8dd71ddde4" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 20 09 50" src="https://github.com/user-attachments/assets/070098ed-8b4b-4730-8669-f836837af233" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 20 06 11" src="https://github.com/user-attachments/assets/12e26edd-bf0b-4f75-8b2e-b78d960c4db4" />
 
 
+I have now styled a header section as shown in the screenshot below:
 
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 20 17 18" src="https://github.com/user-attachments/assets/80c22d3a-9a94-4412-bc94-adb2c8358bd9" />
 
+I have also made the navigation bar on every page to be the header of everypage:
 
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 20 19 42" src="https://github.com/user-attachments/assets/1e7c03cd-eca7-428a-9c61-ae17fe397ff2" />
 
+Here are what all the webpages look like after that (Time: 20:27 Sunday, 28th September 2025):
 
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 20 28 07" src="https://github.com/user-attachments/assets/3a959ba1-04cd-44b4-9f0c-166ebd50efcc" />
 
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 20 28 15" src="https://github.com/user-attachments/assets/d8ac61e8-0a17-4b4f-bff5-86a0fb579076" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 20 28 22" src="https://github.com/user-attachments/assets/9efd0e54-7a9a-49cc-b8fe-6b62848e6b31" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 20 28 29" src="https://github.com/user-attachments/assets/edd873fe-9e79-4348-a50e-a0ab3348cccf" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 20 28 36" src="https://github.com/user-attachments/assets/aea0e706-533f-48b5-b379-87e53f885851" />
+
+I have now styled the navigation bar and changed some colours for the body and header sections as well:
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 09 55" src="https://github.com/user-attachments/assets/7e8e02a6-9c14-49fc-b6c3-c3a23790e1a9" />
+
+Here are what the webpages look like after that: (Time: 23:11 Sunday, 28th September 2025)
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 09 07" src="https://github.com/user-attachments/assets/b3d28e11-3f40-4cdd-ac90-bd817f1e5b4d" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 09 17" src="https://github.com/user-attachments/assets/06e5cc71-7a43-42fe-a37b-249fbd5ad715" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 09 28" src="https://github.com/user-attachments/assets/483997cc-0002-457b-800b-67c651a9757f" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 09 37" src="https://github.com/user-attachments/assets/c3232304-d99d-4fd3-82c3-33a6f50ec1f2" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 09 44" src="https://github.com/user-attachments/assets/ff52ccab-5c41-4a74-8faf-8abad571bddb" />
 
