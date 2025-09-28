@@ -250,3 +250,84 @@ Here are what the webpages look like after that: (Time: 23:11 Sunday, 28th Septe
 
 <img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 09 44" src="https://github.com/user-attachments/assets/ff52ccab-5c41-4a74-8faf-8abad571bddb" />
 
+I have now played around with the colours once more as i was not sure about my original choices. I have also styled my hero class and my content class.
+Below are my style changes and what the webpages look like after all this: (Time: 23:11 Sunday, 28th September 2025):
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 33 40" src="https://github.com/user-attachments/assets/1f0b5cd3-ece6-491f-a4fa-3898786808e5" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 38 30" src="https://github.com/user-attachments/assets/4c84b3fd-516a-448e-8e29-ffdfb3a01ce7" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 38 37" src="https://github.com/user-attachments/assets/d2661402-2b11-47c7-80c4-18f01bb193d1" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 38 44" src="https://github.com/user-attachments/assets/fdd8f714-a191-4cf0-a2b4-f7dafc8a2231" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 38 54" src="https://github.com/user-attachments/assets/29745865-5c53-4ff7-87ca-3e85f8ecd50e" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 39 07" src="https://github.com/user-attachments/assets/025da518-d6b4-47ab-8b8e-76a66ab6dc4a" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 39 19" src="https://github.com/user-attachments/assets/64bea73f-5d3c-4aab-a419-c7b76074ad74" />
+
+
+I have now styled my footer: (Time: 23:50 Sunday, 28th September 2025)
+Below are my style changes and what the webpages look like after all this:
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 47 13" src="https://github.com/user-attachments/assets/937c7803-f093-44fc-a5ca-14e0cafd5a22" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 49 24" src="https://github.com/user-attachments/assets/015e48cd-721a-46be-9312-49c03db158f8" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 49 31" src="https://github.com/user-attachments/assets/6535170e-07df-468c-bf49-77a158b34426" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 49 38" src="https://github.com/user-attachments/assets/0c452712-cb3e-4c0a-8d39-873dc4362d9e" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 49 46" src="https://github.com/user-attachments/assets/101b2a4c-3ebc-4b2a-ad2d-4f1308ca9021" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 49 56" src="https://github.com/user-attachments/assets/2bf193b7-598e-4ba0-9d02-dd933319513d" />
+
+I have now created a Style folder and moved my style sheet into the style folder. I then edited the link to "Style/style.css" to all of my pages as shown below: (Time: 23:58 Sunday, 28th September 2025)
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 52 59" src="https://github.com/user-attachments/assets/e50bd9c2-45e1-4758-b384-85879cd7716f" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 53 34" src="https://github.com/user-attachments/assets/f42065e7-d74a-40d4-bc9f-ca37cb8ce60c" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 23 55 19" src="https://github.com/user-attachments/assets/0f8de94b-865e-49dd-a1de-9398202393a4" />
+
+I have now changed the colours of my hero class again on my about us page: (Time: 23:58 Sunday, 28th September 2025)
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 02 42" src="https://github.com/user-attachments/assets/6d245ff8-b524-4f04-b61a-01ce8e52f164" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 03 02" src="https://github.com/user-attachments/assets/fdec471c-1d77-4604-b581-f559f0e9e8cf" />
+
+
+I have now added an iframe of google maps to my gallery page. Here below is the code and the gallery webpage: (Time: 00:36 Monday, 29th September 2025)
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 21 21" src="https://github.com/user-attachments/assets/51f430c3-475a-4db7-bc2b-f9f9de030b96" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 21 28" src="https://github.com/user-attachments/assets/d9849458-dcd8-4c81-b011-d2de33820625" />
+
+I have now adjusted the height of my hero class backround to 250px, here below is the code:
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 34 23" src="https://github.com/user-attachments/assets/bd76b848-6565-47dc-b7cc-be88d29914ca" />
+
+I have also added the hero class from my about page to ALL of my pages. Here below are the code and webpages after this:
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 34 33" src="https://github.com/user-attachments/assets/37a87077-3e22-408d-b750-48530ce8c728" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 35 06" src="https://github.com/user-attachments/assets/d36704bb-507f-483e-9939-3fb0990ef664" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 34 58" src="https://github.com/user-attachments/assets/4f378de0-f431-4b04-b845-abf6daf8fe40" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 34 44" src="https://github.com/user-attachments/assets/a3ccd096-067c-409e-9682-dd7824825294" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 34 33" src="https://github.com/user-attachments/assets/3f09b042-0067-44ec-9064-dd8c80a0dc86" />
+
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 41 47" src="https://github.com/user-attachments/assets/8e273345-0ffa-49c0-8271-6793ae6771fe" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 41 54" src="https://github.com/user-attachments/assets/1d2020fc-605f-477f-90e3-601d169990dc" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 42 01" src="https://github.com/user-attachments/assets/0b5d347e-211e-4a2d-a045-61e6570e3e34" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 42 08" src="https://github.com/user-attachments/assets/3cf4c00a-6ad4-4b4d-bac7-357a0f4db631" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 42 15" src="https://github.com/user-attachments/assets/91d1a9e9-5378-4ad0-84e4-86117d09cf64" />
+
