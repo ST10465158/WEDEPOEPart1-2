@@ -331,3 +331,29 @@ I have also added the hero class from my about page to ALL of my pages. Here bel
 
 <img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 42 15" src="https://github.com/user-attachments/assets/91d1a9e9-5378-4ad0-84e4-86117d09cf64" />
 
+I have now created a division for all my pages. I also styled my division: Here below is the code and what the webpages look like after this (Time: 00:59 Monday, 29th September 2025): 
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 01 01 30" src="https://github.com/user-attachments/assets/b60a19b1-0207-47d9-915c-9eec1dbc26d5" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 56 05" src="https://github.com/user-attachments/assets/c714b691-4fa0-4b98-8a1d-bac13a2a4901" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 56 19" src="https://github.com/user-attachments/assets/911995e3-c4bd-4ae6-b894-5a0a09f6f873" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 56 26" src="https://github.com/user-attachments/assets/39e14cd7-3310-4a2c-921c-e1407b3ac315" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 56 33" src="https://github.com/user-attachments/assets/5044eba3-0be2-4afd-9312-c33bffec4fdc" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 56 43" src="https://github.com/user-attachments/assets/bfa7222d-4e42-4ce6-96ab-a4397911f792" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 57 02" src="https://github.com/user-attachments/assets/d29b555d-266b-44e6-9ddf-062a65754c0e" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 57 09" src="https://github.com/user-attachments/assets/2d804669-5b7b-4852-be78-184b5fe09be7" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 57 19" src="https://github.com/user-attachments/assets/982bc211-0a06-4c49-a5a5-caa52b7ea603" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 57 31" src="https://github.com/user-attachments/assets/00a91776-7e57-4cee-916c-dd4aede337b2" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-29 at 00 57 38" src="https://github.com/user-attachments/assets/03f7607d-0e4b-4b46-be14-331a29c2e198" />
+
+
+
