@@ -1,5 +1,66 @@
 # WEDEPOEPart1-2
 Rumaisa Khan - ST10465158
+
+WEDE POE
+
+1.	Organisation Review
+Le’Rose Sweetness Bakery is a small, french family-owned bakery based in Paris, France, known for their artisan breads, specialty cakes, yummy cookies and locally inspired pastries. The business has been running for seven years and has developed a loyal base of walk-in customers from the local surrounding community. Their goal is to “bring people together through freshly baked goods made with love and locally sourced organic ingredients.” (Khan, n.d.).
+Their target audience consists of local families, young professionals, and students who value fresh, yet affordable and high-quality baked goods. (Khan, n.d.).
+
+2.	Websites Goals and Objectives
+
+Le’Rose Sweetness lacks a digital presence beyond a minimal social media profile, which limits their ability to reach new customers and showcasing their full product range. The proposed website for Le'Rose Sweetness will provide a competitive advantage by offering a modern, responsive platform with a seamless pre-order system. (Khan, n.d.).
+The website will be utilised as a central platform to showcase their baked goods, highlight seasonal specials, and make online ordering possible. The primary goals are to increase the brands visibility, enabling customers to browse and place pre-orders online, promoting catering services for events, and improving their customers loyalty through newsletters and promotions. The key performance indicators for Le Sweetness will include an increase in online orders, higher engagement with seasonal promotions, and growth in newsletter subscriptions. (Khan, n.d.).
+This solution will transform Le’Rose Sweetness from a walk-in bakery into a modern small business having an online presence, creating so much opportunity for growth and keeping customers. (Khan, n.d.).
+
+
+
+3.	Proposed Website Features and Functionality:
+3.1 Essential Features
+•	Homepage (index.html): An inviting page with a hero image, a brief introduction, and a clear call to action.
+•	About Us (about.html): A section dedicated to the bakery's story and values.
+•	Products and Services (products.html): A detailed gallery of the bakery's offerings with descriptions and images.
+•	Gallery (gallery.html): A place where customers can view pictures of past events and showcases that took place.
+•	Contact (contact.html): A page with contact information, a contact form, and embedded maps for both bakery locations.
+
+3.2 Design and User Experience
+The site will include a welcoming homepage with a beautiful image of the fresh baked goods, an “About Us” section telling their story, a products and services page with images and descriptions, a gallery, and a contact page with location maps for their 2 branches. (Khan, n.d.).
+The design will be warm and simple, reflecting the brand's aesthetic with a pastel colour scheme (creams, pinks, yellows) and friendly typography to reflect the homely bakery brand. Features will include a gallery showcasing baked goods, a simple e-commerce order form for pre-orders, and integration with Google Maps for directions. The website will be extremely responsive, ensuring easy browsing on mobile devices. (Khan, n.d.).
+
+4.	Technical Requirements
+•	Programming Languages: The website will be built using HTML5 for a modern, responsive, and interactive experience. (W3C, n.d.; MDN, n.d.)
+
+•	Hosting: A reliable web hosting service with high uptime (e.g., 99.9%) and sufficient bandwidth will be chosen.
+
+•	Domain Name: A new, simple, and memorable domain name like lerosesweetness.com will be registered.
+5.	Timeline and Milestones
+The project is estimated to take eight weeks:
+•	Week 1: Planning and Research
+•	Week 2-3: Design and Prototyping
+•	Week 4-5: Development of core pages
+•	Week 6: Integration of form functionality and APIs
+•	Week 7: Testing and Debugging
+•	Week 8: Deployment and Launch
+
+6.	Budget 
+A budget of R15,000 is allocated, covering:
+•	Domain Registration: R200
+•	Web Hosting: R2,000
+•	Web Development Services: R12,800
+•	Contingency: R1,000
+
+The proposed website will provide Le’Rose Sweetness Bakery with a vital online presence, enabling it to reach new customers, streamline the pre-ordering process, and ultimately grow its business. The strategic plan ensures a structured approach to development, resulting in a high-quality digital product that aligns with the bakery’s brand and business objectives. 
+
+7.	Sitemap 
+
+a.	Homepage (index.html)
+b.	About Us (about.html)
+c.	Products (products.html)
+d.	Enquiry (enquiry.html
+e.	Contact (contact.html)
+
+
+
 WEDEPOE part 2
 
 I completed my part 1 of the POE on my local machine, and that was not successful as pushing to github was not easy and did not work anyway. I tried to push my first commit into this repository created and last updated 27th of August: https://github.com/ST10465158/WEDEPOEPart1 
