@@ -11,6 +11,7 @@ and here is what is looks like in that repository, nothing there, as my pushing 
 <img width="1440" height="900" alt="Screenshot 2025-09-28 at 15 10 10" src="https://github.com/user-attachments/assets/862d9c9e-b060-4017-9a28-feb1dc64ee51" />
 
 And to push my initial commit to github, I watched my lecturers video on "How to submit part 1 of POE" and everything worked until the final command of " git push -u origin main". I dont understand why, I followed all the steps correctly. Below is a screenshot of the steps I had to follow to push and commit my code:
+
 <img width="685" height="477" alt="Screenshot 2025-09-28 at 15 31 03" src="https://github.com/user-attachments/assets/02ff1cae-338b-464a-b8e4-cc4e7f88d0e1" />
 
 
