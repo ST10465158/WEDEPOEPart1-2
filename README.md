@@ -158,6 +158,44 @@ Here is what I have so far:
 
 I will now add styling and more information to my website: (time: 18:14 Sunday, 28th September 2025)
 
+- I have added different headings ro each page and added more information to my about.html and contact.html as well as a footer to each of the pages. Here below are the screenshots:
+- i have also created a style sheet:
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 19 40 10" src="https://github.com/user-attachments/assets/4876254d-eaf3-4108-87fd-b4861a633436" />
+
+I have linked the style sheet to each of my pages as well:
+
+about.html:
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 19 42 05" src="https://github.com/user-attachments/assets/80e9b48c-14ab-4a05-97fd-351763f7e87f" />
+
+contact.html:
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 19 42 43" src="https://github.com/user-attachments/assets/f0d34363-7fb5-4330-bbe4-7bbf25e07fee" />
+
+index.html:
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 19 42 28" src="https://github.com/user-attachments/assets/45ab2fec-2ea8-42e5-8cc7-5053fea24d9d" />
+
+services.html:
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 19 42 35" src="https://github.com/user-attachments/assets/7ff22b65-a1dd-400d-a234-3e839306aca7" />
+
+gallery html:
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 19 42 50" src="https://github.com/user-attachments/assets/edd6aa47-de83-46bb-b93c-36f7286d5e41" />
+
+here is what the webpages look like so far (Time: 19:59 Sunday, 28th September 2025):
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 19 56 57" src="https://github.com/user-attachments/assets/d465d6e0-7df2-4c1d-b9d0-d9a581f34e44" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 19 57 04" src="https://github.com/user-attachments/assets/eebfcff6-c1af-436e-97cf-07c84de6e6ad" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 19 57 10" src="https://github.com/user-attachments/assets/a5ba6b46-0806-44fe-8858-12990989cb99" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 19 57 18" src="https://github.com/user-attachments/assets/3dac3358-29ed-42b1-8f45-a6940d9372b0" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 19 57 24" src="https://github.com/user-attachments/assets/d370c9c9-abb7-4213-9c56-7c39f770c550" />
 
 
 
