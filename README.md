@@ -19,6 +19,16 @@ so I am going to insert the screenshots of my code to show that i indeed did the
 
 Here is the document that was required as well for the POE: [Web Development Part 1 ST10465158.docx](https://github.com/user-attachments/files/22582873/Web.Development.Part.1.ST10465158.docx)
 
+
+Before I show the code here are all my screenshots for the folder structure I had created below:
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 15 48 20" src="https://github.com/user-attachments/assets/cc57d3fa-6d81-49b3-a21e-6359714fca58" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 15 48 28" src="https://github.com/user-attachments/assets/264cf31b-1f68-4619-8d07-ce863c8da6f5" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-28 at 15 48 36" src="https://github.com/user-attachments/assets/2f08afb7-3b93-4e34-91ae-50844c608b63" />
+
+
 In my word document for the part 1 for my POE, i also included screenshits of the code there as shown below:
 
 <img width="1440" height="900" alt="Screenshot 2025-09-27 at 11 19 50" src="https://github.com/user-attachments/assets/321493ab-f7ef-4c60-ad62-276938a8e899" />
