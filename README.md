@@ -89,7 +89,75 @@ and AGAIN after following the steps, it did not work. I followed the steps to th
 
 <img width="1440" height="900" alt="Screenshot 2025-09-27 at 12 51 41" src="https://github.com/user-attachments/assets/0172d20b-1829-49fd-86ba-9f3261c660f3" />
 
-So since i cannot at this point, update my commit pushes that way, I WILL BE UPDATING THE CHANGES THAT I MADE TO MY CODE OVER HERE< IN THIS README FILE.
+So since i cannot at this point, update my commit pushes that way, I WILL BE UPDATING THE CHANGES THAT I MADE TO MY CODE OVER HERE IN THIS README FILE.
+
+Here is what I have so far:
+
+1. Here below is my folder structure again:
+
+   <img width="1440" height="900" alt="Screenshot 2025-09-28 at 17 59 01" src="https://github.com/user-attachments/assets/db926f09-3ce2-40dd-9172-be85097c8112" />
+
+
+   <img width="1440" height="900" alt="Screenshot 2025-09-28 at 17 59 11" src="https://github.com/user-attachments/assets/21066940-c629-429d-ada1-49de74425c6c" />
+
+   I also made an image folder which is empty so far, as seen below:
+
+   <img width="1440" height="900" alt="Screenshot 2025-09-28 at 17 59 35" src="https://github.com/user-attachments/assets/9f75e653-274a-4c45-bb54-ae41de9b1623" />
+
+2. And here below is my code so far with the corresponding webpages when clicked:
+
+   index.html code:
+
+   <img width="1440" height="900" alt="Screenshot 2025-09-28 at 17 56 54" src="https://github.com/user-attachments/assets/1b0c134a-5089-43ba-bfbd-3798f93f6df1" />
+
+   index.html webpage:
+
+   <img width="1440" height="900" alt="Screenshot 2025-09-28 at 17 58 08" src="https://github.com/user-attachments/assets/a8d1244d-506f-4687-b838-2267ad3ce04f" />
+
+
+
+   about.html code:
+
+   <img width="1440" height="900" alt="Screenshot 2025-09-28 at 17 57 06" src="https://github.com/user-attachments/assets/b7de3bc6-6f8d-49ba-aa7f-bd2911c93282" />
+
+   about.html webpage:
+
+   <img width="1440" height="900" alt="Screenshot 2025-09-28 at 17 58 15" src="https://github.com/user-attachments/assets/d7c3c1b8-b5b4-486e-994b-24a3eb95e4b4" />
+
+
+   
+   gallery.html code:
+
+   <img width="1440" height="900" alt="Screenshot 2025-09-28 at 17 57 14" src="https://github.com/user-attachments/assets/108e2eb8-faa2-45aa-ae5d-c123a0a5e52d" />
+
+   gallery.html webpage:
+
+   <img width="1440" height="900" alt="Screenshot 2025-09-28 at 17 58 25" src="https://github.com/user-attachments/assets/cbe5d50b-5000-4f37-8a75-ad3997a3a4ca" />
+
+
+
+   services.html code:
+
+   <img width="1440" height="900" alt="Screenshot 2025-09-28 at 17 57 28" src="https://github.com/user-attachments/assets/58800d14-a7fb-4ebe-a53b-565d79477924" />
+
+   services.html webpage:
+
+   <img width="1440" height="900" alt="Screenshot 2025-09-28 at 17 58 35" src="https://github.com/user-attachments/assets/441d5073-8623-4f95-976f-77f2da98ecf9" />
+
+
+
+   contact.html code:
+
+   <img width="1440" height="900" alt="Screenshot 2025-09-28 at 17 57 22" src="https://github.com/user-attachments/assets/021f1ff7-c8d7-4a08-b571-7a5bde4ce928" />
+
+   contact.html webpage:
+
+   <img width="1440" height="900" alt="Screenshot 2025-09-28 at 18 13 46" src="https://github.com/user-attachments/assets/d0b9ab51-1cdb-435d-b8f7-913571c8678d" />
+
+
+
+I will now add styling and more information to my website: (time: 18:14 Sunday, 28th September 2025)
+
 
 
 
